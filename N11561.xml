@@ -115,8 +115,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:014611_0000_0F9433D11345D680"/>
-            <pb facs="tcp:014611_0001_0F9433D5EE1151D8"/>
+            <pb facs="unknown:014611_0000_0F9433D11345D680"/>
+            <pb facs="unknown:014611_0001_0F9433D5EE1151D8"/>
             <p>As the great business of the polite world is the eager pursuit of amusement, and as the Public diversions of the season have been interrupted by the hostile parade in the capital; the exhibition of a new farce may not be unentertaining.</p>
             <p>THE GROUP, As lately acted, and to be re-acted to the wonder of all superior intelligences, nigh head-quarters at Amboyne.</p>
             <p>The author has thought proper to borrow the following spirit<g ref="char:EOLhyphen"/>ed lines from a late celebrated poet, and offer to the public by way of PROLOGUE, which cannot fail of pleasing at this crisis</p>
@@ -138,7 +138,7 @@
                <hi>BOSTON</hi> Printed and Sold by EDES and GILL in Queen=Street. 1775.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:014611_0002_0F9433D80BB9CCF0"/>
+            <pb facs="unknown:014611_0002_0F9433D80BB9CCF0"/>
             <head>DRAMATIS PERSONAE</head>
             <list>
                <item>
@@ -169,7 +169,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:014611_0003_0F9433D995BBD7C0"/>
+            <pb facs="unknown:014611_0003_0F9433D995BBD7C0"/>
             <head>THE GROUP.</head>
             <div n="1" type="act_and_scene">
                <head>ACT I. SCENE I.</head>
@@ -210,7 +210,7 @@
                   <l>I'd pin my faith and risk my hopes thereon.</l>
                </sp>
                <sp>
-                  <pb n="4" facs="tcp:014611_0004_0F9433D9FA3926C0"/>
+                  <pb n="4" facs="unknown:014611_0004_0F9433D9FA3926C0"/>
                   <speaker>HAZLEROD.</speaker>
                   <l>And why not now?—What staggers thy belief?</l>
                </sp>
@@ -262,7 +262,7 @@
                   <l>Resolv'd more rapidly to gain my point,</l>
                   <l>I mounted high in justice's sacred seat,</l>
                   <l>
-                     <pb n="5" facs="tcp:014611_0005_0F9433DAB2B5CFC0"/>
+                     <pb n="5" facs="unknown:014611_0005_0F9433DAB2B5CFC0"/>
 With flowing robes, and head equip'd without,</l>
                   <l>A heart unfeeling and a stubborn soul,</l>
                   <l>As qualify'd as e'er a <hi>Jefferies</hi> was;</l>
@@ -316,7 +316,7 @@ With flowing robes, and head equip'd without,</l>
                   <l>Than all the mandates of th' etherial king.</l>
                </sp>
                <sp>
-                  <pb n="6" facs="tcp:014611_0006_0F9433DB7AB7E028"/>
+                  <pb n="6" facs="unknown:014611_0006_0F9433DB7AB7E028"/>
                   <speaker>HECTOR MUSHROOM.</speaker>
                   <l>Will our abettors in the distant towns</l>
                   <l>Support us long against the common cause,</l>
@@ -365,7 +365,7 @@ With flowing robes, and head equip'd without,</l>
                </sp>
             </div>
             <div n="2" type="act">
-               <pb n="7" facs="tcp:014611_0007_0F9433DC38620560"/>
+               <pb n="7" facs="unknown:014611_0007_0F9433DC38620560"/>
                <head>ACT. II.</head>
                <stage>
                   <hi>The scene changes to a large dining room. The table furni<g ref="char:EOLhyphen"/>shed with bowls, bottles, glasses, and cards—The group appear sitting round in a restless attitude. In one corner of the room is discovered a small cabinet of books, for the use of the studious and contemplative; containing Hobbs's Leviathan, Sipthrop's Sermons, Hutchinson's History, Fable of the Bees, Philalethes on Philanthrop, with an appendix by Massachusettensis, Hoyle on Whist, Lives of the Stewarts, Statutes of Henry the eighth, and William the Conqueror, Wedderburn's speeches, and Acts of Parliament, for</hi> 1774.</stage>
@@ -406,7 +406,7 @@ With flowing robes, and head equip'd without,</l>
                      <l>O'er these blest shores—once the sure assylum</l>
                      <l>From all the ills of arbitrary sway)</l>
                      <l>
-                        <pb n="8" facs="tcp:014611_0008_0F9433DD73982528"/>
+                        <pb n="8" facs="unknown:014611_0008_0F9433DD73982528"/>
 With his expiring breath he bade his sons</l>
                      <l>If e'er oppression reach'd the western world</l>
                      <l>Resist its force, and break the servile yoke.</l>
@@ -460,7 +460,7 @@ With his expiring breath he bade his sons</l>
                      <l>And many more, whose names will be rever'd</l>
                      <l>When you and I, and all the venal herd</l>
                      <l>
-                        <pb n="9" facs="tcp:014611_0009_0F9433E353D34D58"/>
+                        <pb n="9" facs="unknown:014611_0009_0F9433E353D34D58"/>
 Weigh'd in Nemosis just impartial scale,</l>
                      <l>Are mark'd with infamy till time blot out</l>
                      <l>And in oblivion sink our hated names.</l>
@@ -515,7 +515,7 @@ Weigh'd in Nemosis just impartial scale,</l>
                      <l>To stand their friend at Britain's mighty court,</l>
                      <l>And vindicate his native injur'd land,</l>
                      <l>
-                        <pb n="10" facs="tcp:014611_0010_0F9433E448DFA310"/>
+                        <pb n="10" facs="unknown:014611_0010_0F9433E448DFA310"/>
 Lent him their names to sanctify his deeds.</l>
                      <l>But mark the traitor—his high crime gloss'd o'er</l>
                      <l>Conceals the tender feelings of the man,</l>
@@ -565,7 +565,7 @@ Lent him their names to sanctify his deeds.</l>
                      <l>Not all the millions that she vainly boasts</l>
                      <l>Can cope with Veteran Barbarian hosts;—</l>
                      <l>
-                        <pb n="11" facs="tcp:014611_0011_0F9433E475709290"/>
+                        <pb n="11" facs="unknown:014611_0011_0F9433E475709290"/>
 But the brave sons of Albion's warlike race,</l>
                      <l>Their arms, and honours, never can disgrace,</l>
                      <l>Or draw their swords in such a hated cause</l>
@@ -618,7 +618,7 @@ But the brave sons of Albion's warlike race,</l>
                      <l>Will find a sheath in ev'ry tyrant's heart.</l>
                   </sp>
                   <sp>
-                     <pb n="12" facs="tcp:014611_0012_0F9433E537E38690"/>
+                     <pb n="12" facs="unknown:014611_0012_0F9433E537E38690"/>
                      <speaker>PUBLICAN.</speaker>
                      <l>—What then is to be done?</l>
                      <l>My finances too low to stand it long.</l>
@@ -672,7 +672,7 @@ But the brave sons of Albion's warlike race,</l>
                      <l>Then let us haste, 'tis novel to be call'd,</l>
                      <l>By Sylla's order, summon'd to attend,</l>
                      <l>
-                        <pb n="13" facs="tcp:014611_0013_0F9433E5F8B40978"/>
+                        <pb n="13" facs="unknown:014611_0013_0F9433E5F8B40978"/>
 So close he keeps his counsels in his breast,</l>
                      <l>Nor trustsus with the manoeuvers of state,</l>
                      <l>I fear he half despises us himself.</l>
@@ -714,7 +714,7 @@ So close he keeps his counsels in his breast,</l>
                      <l>Send out a few—and if they are cut off,</l>
                      <l>What are a thousand souls, sent swiftly down</l>
                      <l>
-                        <pb n="14" facs="tcp:014611_0014_0F9433E6B7509560"/>
+                        <pb n="14" facs="unknown:014611_0014_0F9433E6B7509560"/>
 To Pluto's gloomy shades,—to tell in anguish</l>
                      <l>Half their compeers shall sit pandimonic,</l>
                      <l>E're we will suffer Liberty to reign,</l>
@@ -767,7 +767,7 @@ To Pluto's gloomy shades,—to tell in anguish</l>
                      <l>Who when not toiling in the hostile field,</l>
                      <l>Are faithful vot'ries to the Cyprian Queen,</l>
                      <l>
-                        <pb n="15" facs="tcp:014611_0015_0F9433E79E651120"/>
+                        <pb n="15" facs="unknown:014611_0015_0F9433E79E651120"/>
 Or is her soul of such materials made,</l>
                      <l>Indelicate, and thoughtless of her fame:</l>
                      <l>So void of either sentiment or sense,</l>
@@ -820,7 +820,7 @@ Or is her soul of such materials made,</l>
                      <l>Of hungry Harpies, gaping for their prey;</l>
                      <l>Which if by misadventures they should miss,</l>
                      <l>
-                        <pb n="16" facs="tcp:014611_0016_0F9433EE2C1779C0"/>
+                        <pb n="16" facs="unknown:014611_0016_0F9433EE2C1779C0"/>
 The disappointed vultures angry Fang,</l>
                      <l>Will sieze the lesser gudgeons of the state,</l>
                      <l>And sacrifice to mad Alecto's rage;</l>
@@ -872,7 +872,7 @@ The disappointed vultures angry Fang,</l>
                      <l>How great the pain, and yet how small the <hi>purchase!</hi>
                      </l>
                      <l>
-                        <pb n="17" facs="tcp:014611_0017_0F9433EE53025928"/>
+                        <pb n="17" facs="unknown:014611_0017_0F9433EE53025928"/>
 Had I been dumb, or my right hand cut off,</l>
                      <l>E'er I so servilely had held it up,</l>
                      <l>Or giv'n my voice abjectly to rescind</l>
@@ -918,7 +918,7 @@ Had I been dumb, or my right hand cut off,</l>
                      <l>Doubting, deliberating, half resolv'd</l>
                      <l>To be the saviour of a virtuous state,</l>
                      <l>
-                        <pb n="18" facs="tcp:014611_0018_0F9433EF6E29DB18"/>
+                        <pb n="18" facs="unknown:014611_0018_0F9433EF6E29DB18"/>
 Instead of guarding refugees and knaves,</l>
                      <l>The buzzing reptiles that crawl round his court,</l>
                      <l>And lick his hand for some delicious crumb,</l>
@@ -965,7 +965,7 @@ Instead of guarding refugees and knaves,</l>
                      <l>Thought the chains fix'd which Brundo only clank'd,</l>
                      <l>But yet unless some speedy method's found</l>
                      <l>
-                        <pb n="19" facs="tcp:014611_0019_0F9433EFCA99CE60"/>
+                        <pb n="19" facs="unknown:014611_0019_0F9433EFCA99CE60"/>
 To break the union, and dissolve the bonds</l>
                      <l>That bind this mighty continent so firm,</l>
                      <l>Their Congresses, their Covenants, and leagues,</l>
@@ -1013,7 +1013,7 @@ To break the union, and dissolve the bonds</l>
                      <l>The doughty champion of our sinking cause,</l>
                      <l>The deep "arcana" of whose winding brain</l>
                      <l>
-                        <pb n="20" facs="tcp:014611_0020_0F9433F088A6A150"/>
+                        <pb n="20" facs="unknown:014611_0020_0F9433F088A6A150"/>
 Is fraught with dark expedients to betray,</l>
                      <l>By the long labours of his vet'ran quill,</l>
                      <l>By scattering scraps from ev'ry musty code</l>
@@ -1063,7 +1063,7 @@ Is fraught with dark expedients to betray,</l>
                      <l>I hate the leaders of these restless factions,</l>
                      <l>For all their gen'rous efforts to be free.</l>
                      <l>
-                        <pb n="21" facs="tcp:014611_0021_0F9433F2D4132130"/>
+                        <pb n="21" facs="unknown:014611_0021_0F9433F2D4132130"/>
 I curse the senate which defeats our bribes,</l>
                      <l>Who Hazlerod impeach'd for the same crime.</l>
                      <l>I hate the people, who, no longer gull'd,</l>
@@ -1112,7 +1112,7 @@ I curse the senate which defeats our bribes,</l>
                      <l>As fortune is a fickle, sportive dame,</l>
                      <l>She may for us the victory proclaim,</l>
                      <l>
-                        <pb n="22" facs="tcp:014611_0022_0F9433F37AC52698"/>
+                        <pb n="22" facs="unknown:014611_0022_0F9433F37AC52698"/>
 And with success our busy ploddings crown,</l>
                      <l>Though injured justice stern and solemn frown.</l>
                      <l>Then they shall smart for ev'ry bold offence,</l>
